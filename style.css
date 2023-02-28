@@ -1,0 +1,54 @@
+.cara{
+width: 100%;
+margin: 0px;
+font-size: large;
+color: black;
+background-color: rgb(163, 163, 163);
+}
+
+
+
+body{
+    background-image: url("background.jpg");
+}
+
+
+.note {
+color: gold;
+font-size: 15px;
+}
+
+
+.divVol{
+    float: left;
+    
+}
+.tantarara{
+    width: 200px;
+    border-radius: 100px;
+}
+
+
+
+.tarara{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.divVel{
+    float: right;
+    
+}
+
+.bot{
+    width: 130px;
+    font-size: 25px;
+}
+
+
+canvas{
+    border: 5px solid rgb(247, 247, 247);
+    border-radius: 20px;
+}
+
+
